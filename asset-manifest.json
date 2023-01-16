@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/employementmanagementsystem/static/css/main.582e8852.css",
+    "main.js": "/employementmanagementsystem/static/js/main.18b8b36e.js",
+    "index.html": "/employementmanagementsystem/index.html",
+    "main.582e8852.css.map": "/employementmanagementsystem/static/css/main.582e8852.css.map",
+    "main.18b8b36e.js.map": "/employementmanagementsystem/static/js/main.18b8b36e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.582e8852.css",
+    "static/js/main.18b8b36e.js"
+  ]
+}
