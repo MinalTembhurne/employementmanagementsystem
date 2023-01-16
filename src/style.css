@@ -1,0 +1,27 @@
+* {
+    margin: 1%;
+    padding: 1;
+    box-sizing: border-box;
+  }
+
+  /* .main-div{
+        min-height: 100vh;
+        background: #b9bac6;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+  } */
+
+  .child-div {
+    text-align: center;
+    margin-top: 10rem;
+  }
+
+  .child-div {
+    color: #ffff;
+    font-size: 2rem;
+    padding-top: 2rem;
+    text-transform: capitalize;
+  }
+  
+  
